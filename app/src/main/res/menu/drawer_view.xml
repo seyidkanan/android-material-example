@@ -1,0 +1,17 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_first_fragment"
+            android:icon="@drawable/ic_action_1"
+            android:title="Input Car" />
+        <item
+            android:id="@+id/nav_second_fragment"
+            android:icon="@drawable/ic_action_2"
+            android:title="Car List" />
+        <item
+            android:id="@+id/nav_third_fragment"
+            android:icon="@drawable/ic_action_3"
+            android:title="Car RV" />
+    </group>
+</menu>
