@@ -1,4 +1,4 @@
-# android-material-excample
+# android-material-example
 Material design shown in android aapp.
  
 ##App's screenshots
