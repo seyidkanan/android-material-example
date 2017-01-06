@@ -4,16 +4,16 @@ Material design shown in android aapp.
 ##App's screenshots
 
 ###Adding data screen:
-![Screenshot](Screenshot_1.png)
+[<img src="Screenshot_1.png" width=200>](Screenshot_1.png)
 ###Datas were shown with ListView element:
-![Screenshot](Screenshot_2.png)
+[<img src="Screenshot_2.png" width=200>](Screenshot_2.png)
 ###Datas were shown with RecyclerView element:
-![Screenshot](Screenshot_3.png)
+[<img src="Screenshot_3.png" width=200>](Screenshot_3.png)
 ###NavigationView:
-![Screenshot](Screenshot_7.png)
+[<img src="Screenshot_7.png" width=200>](Screenshot_7.png)
 ###After click to search button on toolbar:
-![Screenshot](Screenshot_4.png)
+[<img src="Screenshot_4.png" width=200>](Screenshot_4.png)
 ###Write smth for search:
-![Screenshot](Screenshot_5.png)
+[<img src="Screenshot_5.png" width=200>](Screenshot_5.png)
 ###Result of search:
-![Screenshot](Screenshot_6.png)
+[<img src="Screenshot_6.png" width=200>](Screenshot_6.png)
